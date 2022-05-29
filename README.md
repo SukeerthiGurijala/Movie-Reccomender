@@ -7,5 +7,12 @@ This is a streamlit web application that can recommend various kinds of similar 
 ### Demo:
 <img width="960" alt="2022-05-28" src="https://user-images.githubusercontent.com/105065790/170817255-239d6b0d-d3ac-40fe-8970-645233e84460.png">
 <img width="960" alt="2022-05-28 (1)" src="https://user-images.githubusercontent.com/105065790/170817538-c217edd0-2693-468b-8da4-1202c843a6c6.png">
-#### Data Set Link:
+#### Dependency:
+ Streamlit
+ *Run Webapp.ipynb in colab using streamlit and ngrok.
+
+##### Data Set Link:
      https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+      movie_list.pkl
+      similarity.pkl
+
