@@ -9,7 +9,7 @@ This is a streamlit web application that can recommend various kinds of similar 
 <img width="960" alt="2022-05-28 (1)" src="https://user-images.githubusercontent.com/105065790/170817538-c217edd0-2693-468b-8da4-1202c843a6c6.png">
 #### Dependency:
  Streamlit
- *Run Webapp.ipynb in colab using streamlit and ngrok.
+ *Run Web_app.ipynb in colab using streamlit and ngrok.
 
 ##### Data Set Link:
      https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
